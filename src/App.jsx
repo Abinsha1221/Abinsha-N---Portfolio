@@ -39,9 +39,11 @@ export default function Portfolio() {
               Hi, I'm <span className="text-cyan-400">Abinsha</span>
             </h1>
             <p className="text-slate-300 text-lg leading-relaxed mb-8">
-              Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning. 
-              Passionate about Deep Learning, Computer Vision, and AI-driven solutions, 
-              with hands-on experience developing AI applications using Python, TensorFlow, OpenCV, and Flask.
+              Computer Science and Engineering graduate specializing in
+              Artificial Intelligence and Machine Learning. Passionate about
+              Deep Learning, Computer Vision, and AI-driven solutions, with
+              hands-on experience developing AI applications using Python,
+              TensorFlow, OpenCV, and Flask.
             </p>
 
             <div className="flex flex-wrap gap-4">
@@ -154,8 +156,11 @@ export default function Portfolio() {
               </h3>
               <p className="text-slate-400 mb-4">Mar 2023 – Apr 2023</p>
               <p className="text-slate-300">
-                Participated in AI and machine learning training focused on problem-solving, data analysis, and model development. 
-                Gained practical exposure to machine learning workflows, Python-based implementation, and AI-driven solutions through guided projects and assignments.
+                Participated in AI and machine learning training focused on
+                problem-solving, data analysis, and model development. Gained
+                practical exposure to machine learning workflows, Python-based
+                implementation, and AI-driven solutions through guided projects
+                and assignments.
               </p>
             </div>
 
@@ -165,22 +170,72 @@ export default function Portfolio() {
               </h3>
               <p className="text-slate-400 mb-4">Jun 2024 – Jul 2024</p>
               <p className="text-slate-300">
-                Undertook hands-on training in robotics and artificial intelligence, exploring automation, intelligent systems, and practical AI applications. 
-                Acquired foundational knowledge of integrating AI concepts into robotic and real-world automation scenarios.
+                Undertook hands-on training in robotics and artificial
+                intelligence, exploring automation, intelligent systems, and
+                practical AI applications. Acquired foundational knowledge of
+                integrating AI concepts into robotic and real-world automation
+                scenarios.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* Certifications */}
+      <section className="px-6 md:px-20 py-20 border-b border-slate-800">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-4xl font-bold mb-12">Certifications</h2>
+
+          <div className="space-y-8">
+            <div className="bg-slate-900 border border-slate-800 rounded-3xl p-8">
+              <h3 className="text-2xl font-semibold text-cyan-400 mb-2">
+                The Complete Python Bootcamp: From Zero to Hero in Python
+              </h3>
+
+              <p className="text-slate-400 mb-4">Udemy • Jose Portilla</p>
+
+              <p className="text-slate-300">
+                Completed comprehensive Python training covering Python
+                fundamentals, object-oriented programming, file handling,
+                exception handling, modules, automation, and practical projects.
+                Strengthened problem-solving and programming skills through
+                hands-on exercises and real-world applications.
               </p>
             </div>
           </div>
         </div>
       </section>
 
+      {/* Leadership & Volunteering */}
+      <section className="px-6 md:px-20 py-20 border-b border-slate-800">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-4xl font-bold mb-12">
+            Leadership & Volunteering
+          </h2>
+
+          <div className="bg-slate-900 border border-slate-800 rounded-3xl p-8">
+            <h3 className="text-2xl font-semibold text-cyan-400 mb-2">
+              National Service Scheme (NSS) Volunteer
+            </h3>
+
+            <p className="text-slate-300">
+              Contributed to community development and social service
+              initiatives through NSS activities, awareness programs, and
+              volunteer events. Strengthened leadership, teamwork,
+              communication, and event coordination skills while working with
+              diverse groups to support community welfare and social impact
+              projects.
+            </p>
+          </div>
+        </div>
+      </section>
       {/* Contact */}
       <section className="px-6 md:px-20 py-20">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6">Let's Connect</h2>
 
           <p className="text-slate-300 text-lg mb-10 leading-relaxed">
-            I’m actively looking for opportunities in AI/ML, Deep Learning,
-            and Software Development where I can contribute, learn, and grow.
+            I’m actively looking for opportunities in AI/ML, Deep Learning, and
+            Software Development where I can contribute, learn, and grow.
           </p>
 
           <div className="flex flex-col md:flex-row justify-center gap-6 text-lg">
