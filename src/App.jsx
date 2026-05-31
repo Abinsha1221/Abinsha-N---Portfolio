@@ -39,10 +39,9 @@ export default function Portfolio() {
               Hi, I'm <span className="text-cyan-400">Abinsha</span>
             </h1>
             <p className="text-slate-300 text-lg leading-relaxed mb-8">
-              Final-year Computer Science (AI & ML) student passionate about
-              Deep Learning, Computer Vision, and real-world AI applications.
-              Experienced in building end-to-end AI systems using Python,
-              TensorFlow, OpenCV, and Flask.
+              Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning. 
+              Passionate about Deep Learning, Computer Vision, and AI-driven solutions, 
+              with hands-on experience in Python, TensorFlow, OpenCV, Flask, and Machine Learning.
             </p>
 
             <div className="flex flex-wrap gap-4">
@@ -73,6 +72,7 @@ export default function Portfolio() {
                 <p className="font-semibold text-white">Education</p>
                 <p>B.Tech CSE (AI & ML)</p>
                 <p>College of Engineering Attingal</p>
+                <p>Graduated 2026</p>
               </div>
 
               <div>
