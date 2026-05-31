@@ -41,7 +41,7 @@ export default function Portfolio() {
             <p className="text-slate-300 text-lg leading-relaxed mb-8">
               Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning. 
               Passionate about Deep Learning, Computer Vision, and AI-driven solutions, 
-              with hands-on experience in Python, TensorFlow, OpenCV, Flask, and Machine Learning.
+              with hands-on experience developing AI applications using Python, TensorFlow, OpenCV, and Flask.
             </p>
 
             <div className="flex flex-wrap gap-4">
@@ -154,8 +154,8 @@ export default function Portfolio() {
               </h3>
               <p className="text-slate-400 mb-4">Mar 2023 – Apr 2023</p>
               <p className="text-slate-300">
-                Worked on AI-based problem-solving tasks and gained exposure
-                to machine learning workflows.
+                Participated in AI and machine learning training focused on problem-solving, data analysis, and model development. 
+                Gained practical exposure to machine learning workflows, Python-based implementation, and AI-driven solutions through guided projects and assignments.
               </p>
             </div>
 
@@ -165,8 +165,8 @@ export default function Portfolio() {
               </h3>
               <p className="text-slate-400 mb-4">Jun 2024 – Jul 2024</p>
               <p className="text-slate-300">
-                Completed hands-on training in robotics and AI concepts with
-                exposure to practical applications of automation and intelligent systems.
+                Undertook hands-on training in robotics and artificial intelligence, exploring automation, intelligent systems, and practical AI applications. 
+                Acquired foundational knowledge of integrating AI concepts into robotic and real-world automation scenarios.
               </p>
             </div>
           </div>
